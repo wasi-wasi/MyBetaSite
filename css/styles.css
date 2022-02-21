@@ -121,12 +121,17 @@ a:hover{
   float:left;
   margin-right: 30px;
 }
+
 .img_skill1{
   width: 15%;
   float: right;
   margin-left: 30px;
 }
-
+.img_skill2{
+  width: 15%;
+  float:left;
+  margin-right: 30px;
+}
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
